@@ -3,8 +3,8 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : 081376900646 HEMAT JAN LUPA️S
+️ YT : ModsBOt JANGAN LUPA SUBSCRIBE ️
+️ NOMOR : 08980330708 HEMAT JAN LUPA️S
 〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 
@@ -14,7 +14,6 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ╔══════════════════╗
 ║          GROUP MENU                ║
 ╠══════════════════╝
-║│${prefix}jadibot
 ║│${prefix}autorespon
 ║│${prefix}antidelete
 ║│${prefix}bc [ teks ]
@@ -327,7 +326,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║     By *ModsBOT*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
