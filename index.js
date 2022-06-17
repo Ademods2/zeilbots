@@ -1,4 +1,4 @@
-//BUG & ERROR LAPOR KE GW 089617554095
+//BUG & ERROR LAPOR KE GW 08980330708
 //Setting Nomor Owner Di setting.js
 //Kalo Mau Ganti Di alpha.js Hati" Ntar Error ye
 
